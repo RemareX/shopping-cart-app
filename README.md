@@ -1,5 +1,3 @@
-# 🛒 ShopCart - React Shopping Cart Application
-
 A modern, fully-functional e-commerce shopping cart application built with React, featuring real product data from the FakeStore API.
 
 
